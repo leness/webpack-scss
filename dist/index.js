@@ -1,0 +1,2 @@
+(()=>{"use strict";const o={style:"n_pIvO0wM9lls0w4MiPu"};console.log(o),console.log("kkk"),console.log("Hello World!");for(var e=0;e<10;e++)console.log("dfdf");function l(o){var e=document.createElement("div");e.textContent="Element from TS",e.className=o,document.body.appendChild(e)}l(o.style),l("v_hbC62vqL8Q6w_QTXIC"),setTimeout((function(){console.log("hghdfs")}),100)})();
+//# sourceMappingURL=index.js.map
